@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
-##  Eu sou Janailson Almeida
+##  Eu sou Janailson
 
 💻 Desenvolvedor focado em criar soluções práticas e eficientes com código limpo e boas práticas.  
 🎓 Graduando em Engenharia de Software — Estácio  
