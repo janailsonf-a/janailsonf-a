@@ -32,7 +32,6 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-F89500?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
 ### ⚙️ DevOps
 
@@ -45,6 +44,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-F89500?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
 ### 🖥️ IDEs Favoritas
 
