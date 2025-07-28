@@ -10,7 +10,6 @@
 
 ### 🧠 Interesses
 - Backend com **PHP / Laravel**
-- Aplicações desktop com **Python** e **Java**
 - APIs RESTful e arquitetura de software
 
 ---
