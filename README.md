@@ -1,90 +1,117 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="380px" align="right"/>
 
-# 👋 Olá, eu sou **Janailson Almeida**
+# 👋 Hi, I'm Janailson Almeida
 
-💻 Desenvolvedor Backend focado em construir **sistemas eficientes, APIs bem estruturadas e soluções escaláveis**  
-🎓 Graduando em **Engenharia de Software — Estácio**  
-🚀 Experiência prática no desenvolvimento de sistemas internos e aplicações web
-
-Tenho como foco transformar problemas reais em soluções técnicas organizadas, seguras e bem modeladas.
+🚀 Backend Developer | PHP | Laravel | Python | APIs | Docker | Linux  
 
 ---
 
-## 🎯 Perfil Profissional
+## 🧠 About Me
 
-✔ Desenvolvimento de **APIs RESTful**  
-✔ Construção de sistemas com **Laravel**  
-✔ Modelagem de banco de dados e regras de negócio  
-✔ Organização de código seguindo boas práticas  
-✔ Experiência em projetos reais e ambientes colaborativos  
-
-Sou movido por evolução constante e gosto de entender o sistema como um todo, não apenas “fazer funcionar”.
+💻 Backend developer focused on building scalable systems and efficient APIs  
+🎓 Software Engineering student at Estácio  
+⚙️ Passionate about system architecture, performance, and real-world solutions  
+🐧 Experience with Linux environments and production deployments  
 
 ---
 
-## 🚀 Stack Principal
+## 🚀 Tech Stack
 
-### 👨‍💻 Backend & Web
+### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### ⚙️ Versionamento & Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🧩 Experiência Prática
+## 🔥 Featured Projects
 
-🔹 Participação no desenvolvimento de **sistema de chamados**  
-• Backend em Laravel  
-• Estruturação de banco de dados  
-• Implementação de regras de negócio  
-• Integração entre usuários, setores e gestão  
+### 🔎 Noxis Backend (File Indexing System)
+High-performance file indexing and search system built with FastAPI.
 
-🔹 Desenvolvimento de aplicações web e APIs para projetos reais  
-🔹 Atuação em equipe com divisão de responsabilidades  
+- ⚡ Fast search using indexed metadata  
+- 🧠 Full-text search with SQLite FTS5  
+- 📊 System monitoring (CPU, RAM, Disk)  
+- 🔐 Secure file handling and validation  
+
+➡️ https://github.com/janailsonf-a/Noxis-Python  
 
 ---
 
-## 🌟 Projetos em Destaque
+### 🛠 Central Desk
+Help desk and internal request management system built with Laravel.
 
-| Projeto | Descrição |
-|--------|-----------|
-| 🐷 **Sistema de Gestão Financeira** | Controle de entradas, saídas e organização financeira pessoal |
-| 📦 **Mini ERP** | Sistema de estoque e vendas com integração de dados |
-| 🎫 **Sistema de Chamados** | API e backend para gerenciamento de solicitações internas |
+- 📌 Ticket management  
+- 🔐 Authentication system  
+- ⚙️ API + Web interface  
 
-*(Adicione os links dos repositórios aqui depois)*
+➡️ https://github.com/janailsonf-a/Central-Desk  
+
+---
+
+### 📊 Mini ERP
+ERP system for managing business operations and workflows.
+
+➡️ https://github.com/janailsonf-a/mini-erp-php  
+
+---
+
+### 💰 Porquinho Turbo
+Personal finance management application.
+
+➡️ https://github.com/janailsonf-a/Porquinho-Turbo  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=janailsonf-a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janailsonf-a&layout=compact&theme=tokyonight"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=janailsonf-a&theme=radical)
 
 ---
 
-## 🎯 Objetivo
+## 💡 What I Do
 
-Atuar como desenvolvedor backend contribuindo na construção de sistemas robustos, bem estruturados e que entreguem valor real para usuários e empresas.
+- Build scalable backend systems  
+- Design and develop RESTful APIs  
+- Structure clean and maintainable architectures  
+- Work with business rules and data modeling  
+- Deploy and maintain applications in Linux environments  
 
 ---
 
-## 📫 Contato
+## 🎯 Career Goals
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5588988912208)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janailson-firmino-de-almeida-117360246/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janailsonfirmino@gmail.com)
+I am looking for opportunities as a Backend Developer where I can contribute to building robust, scalable, and impactful systems.
+
+---
+
+## 📫 Contact
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/janailson-firmino-de-almeida-117360246  
+- 🌐 Portfolio: https://janailsonf-a.github.io/projeto-portifolio/home/index.html  
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building real-world systems that solve practical problems and improve workflows.
+
+## 🧠 Notes
+
+I use AI tools to accelerate development and improve productivity.  
+My main focus is backend development and system architecture.
